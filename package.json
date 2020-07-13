@@ -35,7 +35,7 @@
   "devDependencies": {
     "jest": "^24.7.1",
     "jest-junit": "^6.3.0",
-    "standard-version": "^4.4.0",
+    "standard-version": "^8.0.1",
     "supertest": "^3.3.0"
   },
   "engines": {
